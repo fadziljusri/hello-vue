@@ -1,4 +1,4 @@
-# Hello-Vue
+# hello-vue
 
 > A Vue.js dashboard boilerplate
 
@@ -27,6 +27,6 @@ npm run e2e
 npm test
 ```
 
-## [DEMO](https://hello-vue.fadzil.win/)
+## [DEMO](https://fadziljusri.github.io/hello-vue)
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
